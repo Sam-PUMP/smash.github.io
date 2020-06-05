@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://smash.github.io/
+BASE_PATH : http://sam-pump.github.io/
 
 
 title : uno-dbyll
